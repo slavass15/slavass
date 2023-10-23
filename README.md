@@ -41,4 +41,8 @@
 ![image](https://github.com/slavass15/slavass/assets/40364385/9800a1c9-a01f-47da-a9e2-4aeef626b4f3)
 
 
+Задание №2
+![image](https://github.com/slavass15/slavass/assets/40364385/45ac90dc-81f9-464f-a0cb-fade3d0e8559)
+
+
 
