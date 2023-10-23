@@ -1,8 +1,7 @@
 Задание №1
 
 В этом задании имеется данная топология!
-[image](https://github.com/slavass15/slavass/assets/40364385/d9fc3754-8b39-4170-8de4-ed57baa5b3a3)
-
+![image](https://github.com/slavass15/slavass/assets/40364385/657115a7-17ec-46ec-afe4-c91e7971352e)
 
 Что необходимо сделать:
 
