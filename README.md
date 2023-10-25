@@ -18,4 +18,22 @@
 
 
 Ход работы:
+1.Первым делом заполнил IP-адресацию будущих машин
 
+![image](https://github.com/slavass15/slavass/assets/40364385/6e900102-d7da-40a7-899d-bce47a220e9f)
+
+2.Далее создание машин и настройка IP-адресов 
+
+![image](https://github.com/slavass15/slavass/assets/40364385/973ffe34-d929-4903-aa97-05a04bc1e296)
+
+Настройку ip продемонстрирую на примере HQ-R
+Вводим в консоль команду NMTUI
+
+![image](https://github.com/slavass15/slavass/assets/40364385/76c47a68-8313-4017-9d9f-ab6f02ecb7dd)
+
+nmtui —  удобный инструмент, который позволяет легко настраивать сетевые интерфейсы в дистрибутивах Linux с помощью графического дисплея
+![image](https://github.com/slavass15/slavass/assets/40364385/9bda3da0-5248-4c05-975e-d5897cb1c6bf)
+
+![image](https://github.com/slavass15/slavass/assets/40364385/9b4127d2-7e0a-499d-be4e-f21962084e21)
+
+![image](https://github.com/slavass15/slavass/assets/40364385/a27d6791-9bb6-417b-b89e-4644b668b59e)
